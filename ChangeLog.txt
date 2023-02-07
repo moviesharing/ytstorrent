@@ -1,0 +1,65 @@
+Changes since SongCharts 1.3
+----------------------------
+
+Added new Youtube MP3 download api.
+
+
+Changes since SongCharts 1.2
+----------------------------
+
+Added options to add multiple Youtube API keys (10 max).
+
+
+Changes since SongCharts 1.1
+----------------------------
+
+download_main.php - added new mp3 convert and download source.
+
+
+Changes since SongCharts 1.0
+----------------------------
+
+download_main.php - remove the 'Related Searches' title when there are no related searches.
+download_main.php - responsive mp3 download button.
+js/custom.js - added https support for autocomplete search function.
+includes/yt_search.php - fixed foreach function
+htaccess,sitemap.php - added XML sitemap.
+Added iTunes charts countries;
+
+Anguilla ai
+Armenia am
+Azerbaijan az
+Bahamas bs
+Bahrain bh
+Barbados bb
+Belarus by
+Belize bz
+Bermuda bm
+Bolivia bo
+Botswana bw
+Bulgaria bg
+Burkina Faso bf
+Cambodia kh
+Egypt eg
+Estonia ee
+Fiji fj
+Gambia gm
+Ghana gh
+Honduras hn
+Jordan jo
+Kazakhstan kz
+Latvia lv
+Lithuania lt
+Malta mt
+Mongolia mn
+Mozambique mz
+Namibia na
+Nepal np
+Nicaragua ni
+Niger ne
+Nigeria ng
+Oman om
+Paraguay py
+Uganda ug
+Ukraine ua
+Zimbabwe zw
